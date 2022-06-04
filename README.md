@@ -1,6 +1,6 @@
-####################################################     SECURITY DOORS    ####################################################
+########################################     SECURITY DOORS    ########################################
 
-                                                Project made for arduino classes
+                                    Project made for arduino classes
                             
 Arduino modules used:
     - 4x3 Keypad
